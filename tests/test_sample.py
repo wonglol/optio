@@ -1,5 +1,5 @@
 # Sample Test passing with nose and pytest
-# test_sample.py
+
 import numpy as np
 import matplotlib.pyplot as plt
 from optio.get_simulation_fiber import get_simulation_fiber 
